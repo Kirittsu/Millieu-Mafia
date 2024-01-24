@@ -4,5 +4,29 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MoLaazibiScene.unity
+    guid: 1fa119ba60575db46a36f489462731b7
+  - enabled: 1
+    path: Assets/Scenes/LevelTochi.unity
+    guid: 3ad2d61693db1a84680525c25c2d4a6b
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 3902dd8f17cf22644863872d82e4a2c4
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/LevelKeanu.unity
+    guid: c2f1e41128bd2df418ec640e3226f96a
+  - enabled: 1
+    path: Assets/Scenes/LevelAfissou.unity
+    guid: afc9f56f06cca4c4c890ca1dc1ecc87d
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 2c9c2e74740c76042b73d7791c45089f
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 351a45c32126ad7459101e5e4558813a
   m_configObjects: {}
